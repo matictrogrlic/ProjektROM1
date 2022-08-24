@@ -1,0 +1,72 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1959,         64]
+NotebookOptionsPosition[      1314,         43]
+NotebookOutlinePosition[      1759,         60]
+CellTagsIndexPosition[      1716,         57]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Globalna rast debelosti", "Title",
+ CellChangeTimes->{{3.870328559842318*^9, 
+  3.8703285690258555`*^9}},ExpressionUUID->"84ca861e-66ca-4590-8925-\
+4162091163d0"],
+
+Cell[CellGroupData[{
+
+Cell["Pridobivanje podatkov", "Section",
+ CellChangeTimes->{{3.8703288251770535`*^9, 3.8703288735268044`*^9}, {
+  3.8703289378268747`*^9, 3.870329010598823*^9}, {3.8703291082396603`*^9, 
+  3.8703291279878693`*^9}, {3.870329536491111*^9, 
+  3.8703295374599266`*^9}},ExpressionUUID->"57d50218-5026-4448-af61-\
+da251af3656e"],
+
+Cell["Podatke bom vzel iz Wolfram data repository.", "Text",
+ CellChangeTimes->{{3.870329546970683*^9, 
+  3.8703296046481304`*^9}},ExpressionUUID->"fff17081-6941-47c7-a152-\
+5695e2887c90"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{1440., 777.75},
+WindowMargins->{{-6, Automatic}, {Automatic, -6}},
+TaggingRules-><|"TryRealOnly" -> False|>,
+FrontEndVersion->"13.1 for Microsoft Windows (64-bit) (June 16, 2022)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"c8e98521-65aa-4625-aa66-81fadb2f907c"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 168, 3, 98, "Title",ExpressionUUID->"84ca861e-66ca-4590-8925-4162091163d0"],
+Cell[CellGroupData[{
+Cell[773, 29, 322, 5, 67, "Section",ExpressionUUID->"57d50218-5026-4448-af61-da251af3656e"],
+Cell[1098, 36, 188, 3, 35, "Text",ExpressionUUID->"fff17081-6941-47c7-a152-5695e2887c90"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
