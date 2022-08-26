@@ -8,4 +8,4 @@ Analiziral bom globalno rast debelosti iz leta 1975 do 2014. Primerjal bom drža
 4. Pogled na Kitajsko in primerjava z drugo državo
 
 # Povezava do videoposnetka:
-Na naslednji povezavi je videoposnetek moje predstaviotve: 
+Na naslednji povezavi je videoposnetek moje predstavitve: 
