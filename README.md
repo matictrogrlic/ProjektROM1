@@ -9,4 +9,4 @@ Analiziral bom globalno rast debelosti iz leta 1975 do 2014. Primerjal bom drža
 5. V zadnjem delu bom še sestavil funkcijo, ki bo za parameter sprejela ime države v Angleščini in bo vrnila graf spremembe debelosti.
 
 ### Povezava do videoposnetka:
-Na naslednji povezavi je videoposnetek moje predstavitve: 
+Na naslednji povezavi je videoposnetek moje predstavitve: https://youtu.be/id-mKc8f2Rg
